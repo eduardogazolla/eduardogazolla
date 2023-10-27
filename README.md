@@ -1,4 +1,5 @@
 ## Hi, my name is Eduardo Gazolla 👋
+- I'm based in somewhere in BRASIL 🌍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogazolla/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
