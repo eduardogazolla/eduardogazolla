@@ -18,6 +18,5 @@
 ### Apaixonado por tecnologia, inovação e programação. 🖥️
 
 ### Email para contato 📩
-eduardogazolla1@gmail.com
-
+eduardogazolla1@gmail.com<br/>
 eduardogazolla@icloud.com
