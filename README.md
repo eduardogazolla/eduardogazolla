@@ -1,9 +1,9 @@
 ## Hi, my name is Eduardo Gazolla 👋
 - I'm based in somewhere in BRASIL 🌍
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](eduardogazolla.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogazolla/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/eduardogazolla/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardogazolla/)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogazolla&layout=compact)
 
@@ -18,5 +18,5 @@
 
 ### Passionate about technology, innovation and programming 🖥️
 
-## You can contact me 📩
-- eduardogazolla1@gmail.com
+## You can contact me [📩](eduardogazolla.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardogazolla1@gmail.com)
