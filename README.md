@@ -13,7 +13,7 @@
 <img align= "center" alt="css3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
 <img align= "center" alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 <img align= "center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-<img aling= "center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+<img align= "center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 </div><br/>
 
 ### Passionate about technology, innovation and programming 🖥️
