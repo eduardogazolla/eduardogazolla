@@ -24,20 +24,20 @@ I'm a graduate in <strong>Systems Analysis and Development (Tecnólogo)</strong>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=java,nodejs,mongodb,postman" /></a>
+    <a><img src="https://i.icoziv.workers.dev/icons?i=java,nodejs,mongodb,postman" /></a>
 </kbd>
 
 <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,tailwind" /></a>
+    <a><img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,tailwind" /></a>
 </kbd>
 
 <kbd>
     <kbd>Others</kbd>
     <br>
     <br>
-    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=playwright,git,github,jira" /></a>
+    <a><img src="https://i.icoziv.workers.dev/icons?i=playwright,git,github,jira" /></a>
 </kbd>
 </p>
