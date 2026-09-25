@@ -1,21 +1,43 @@
-## Hi, my name is Eduardo Gazolla 👋
-- I'm based in somewhere in BRASIL 🌍
+<h1 align="center">Hello, I'm Eduardo Gazolla 👋 </h1>
+<h3 align="center"> Software Engineering Student • Systems Analyst and Developer • QA Analyst • Based in BRASIL</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://eduardogazolla.com.br/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogazolla/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardogazolla/)
+<p align="center">
+  <a href="mailto:eduardogazolla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eduardogazolla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
-## Technologies i'm learning 📚
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 About me</h3></legend>
 
-<div style="display: inline-block"><br/>
-<img align= "center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align= "center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align= "center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align= "center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align= "center" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</div><br/>
+  <em>
+I'm a graduate in <strong>Systems Analysis and Development (Tecnólogo)</strong> and I'm currently pursuing a <strong>Bachelor's degree in Software Engineering</strong> at <strong>Unipar Cianorte</strong>.</p>
+  </em>
+  <br>
+<div align= "center">
+  <b><i>Technologies I'm studying</i></b> 
+</div>
+<br>
 
-### Passionate about technology, innovation and programming 🖥️
+<p style="display: inline-block;" align="center">
+<kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=java,nodejs,mongodb,postman" /></a>
+</kbd>
 
-## You can contact me [📩](https://eduardogazolla.vercel.app)
-- eduardogazolla1@gmail.com
+<kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=html,css,js,typescript,tailwind" /></a>
+</kbd>
+
+<kbd>
+    <kbd>Others</kbd>
+    <br>
+    <br>
+    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=playwright,git,github,jira" /></a>
+</kbd>
+</p>
